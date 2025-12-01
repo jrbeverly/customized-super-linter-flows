@@ -1,0 +1,4 @@
+[linters]
+ruff = ".linter/ruff.toml"
+markdownlint = ".linter/markdownlint.json"
+hadolint = ".linter/hadolint.yaml"
